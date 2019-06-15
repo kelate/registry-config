@@ -1,4 +1,4 @@
-# Sample Spring Cloud Config for the JHipster Registry
+# Sample Spring Cloud Config for the Kelate Registry
 
 This is a sample repository used by the [JHipster Registry](https://github.com/jhipster/jhipster-registry).
 
